@@ -1,0 +1,19 @@
+body{
+  align-items: center;
+  margin:30%;
+  background-color:#b0efeb;
+}
+h1{
+  text-align: center;
+  color:red;
+}
+.operations{
+  text-align: center;
+}
+input{
+  border-radius:10px;
+  bod
+}
+label{
+  color:blue;
+}
